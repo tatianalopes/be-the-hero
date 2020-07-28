@@ -15,7 +15,6 @@
     margin-left: 24px;
 }
 
-
 .profile-container header img {
     height: 64px;
 }
@@ -64,6 +63,7 @@
     right: 24px;
     top: 24px;
     border: 0;
+    background: #fff;
 }
 
 .profile-container ul li button:hover {
